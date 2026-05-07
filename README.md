@@ -14,15 +14,13 @@ Learning Today, Building Tomorrow
 
 # About
 
-I graduated in **B.Tech CSE-AIML (June 2025)**.
-
-Right now, I am rebuilding my technical foundation from scratch through disciplined and consistent learning.
+BTech CSE (AIML) graduate | Java & DSA focused | Exploring AI & ML | Building projects, improving daily
 
 For the next 3 months, my primary focus is:
 
 - Mastering Java
 - Learning Data Structures & Algorithms deeply
-- Solving 180+ LeetCode questions
+- Solving 200+ LeetCode questions
 - Building strong problem-solving skills
 - Maintaining daily consistency and public accountability
 
@@ -129,7 +127,7 @@ Comprehensive DSA implementation repository with systematic topic coverage.
 
 ## leetcode-solutions-java
 
-Repository dedicated to solving **180+ LeetCode questions**.
+Repository dedicated to solving **200+ LeetCode questions**.
 
 ### Focus Areas
 - Problem Solving
@@ -167,27 +165,25 @@ Current Commit Streak: **35+ Days**
 
 # GitHub Stats
 
-![Metrics](./github-metrics.svg)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amrit765&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amrit765&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrit765&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+</p>
 
 ---
 
 # Goals
 
 - Complete Java + DSA roadmap
-- Solve 180+ LeetCode problems
+- Solve 200+ LeetCode problems
 - Become strong in problem solving
 - Become placement-ready
 - Transition into software development and AI-focused roles
-
----
-
-# Learning Philosophy
-
-- Consistency over motivation
-- Learn deeply, not superficially
-- Build fundamentals first
-- Solve problems daily
-- Improve 1% every day
 
 ---
 
