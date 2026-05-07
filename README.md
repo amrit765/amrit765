@@ -10,10 +10,6 @@ Learning Today, Building Tomorrow
   Java • Data Structures & Algorithms • Problem Solving • Systematic Learning
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amrit765&label=Profile%20Views&color=89CFF0&style=flat-square" />
-</p>
-
 ---
 
 # About
