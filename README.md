@@ -26,43 +26,6 @@ For the next 3 months, my primary focus is:
 
 ---
 
-# Current Learning Focus
-
-## Java Fundamentals
-- Variables & Data Types
-- Operators
-- Loops
-- Patterns
-- Functions & Methods
-- Arrays
-- Strings
-- Bit Manipulation
-- OOPs
-
----
-
-## Data Structures & Algorithms
-- Arrays
-- Strings
-- Sorting Algorithms
-- Recursion
-- Divide & Conquer
-- Backtracking
-- ArrayLists
-- Linked Lists
-- Stacks
-- Queues
-- Greedy Algorithms
-- Binary Trees
-- Binary Search Trees
-- Heaps
-- Hashing
-- Tries
-- Graphs
-- Dynamic Programming
-
----
-
 # GitHub Repositories
 
 ## java-fundamentals
@@ -102,8 +65,6 @@ Comprehensive DSA implementation repository with systematic topic coverage.
 ### Topics Covered
 - Arrays
 - Strings
-- Bit Manipulation
-- OOPs
 - Sorting Algorithms
 - Recursion
 - Divide & Conquer
