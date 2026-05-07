@@ -10,6 +10,10 @@ Learning Today, Building Tomorrow
   Java • DSA • LeetCode • Consistency • Daily Growth
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amrit765&label=Profile%20Views&color=89CFF0&style=for-the-badge" />
+</p>
+
 ---
 
 # About
@@ -164,13 +168,21 @@ Current Commit Streak: **35+ Days**
 # GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amrit765&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amrit765&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amrit765&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amrit765&theme=tokyonight&hide_border=true" width="49%" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrit765&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=amrit765&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amrit765&theme=tokyo-night&hide_border=true" width="95%"/>
 </p>
 
 ---
