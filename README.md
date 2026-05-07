@@ -24,8 +24,6 @@ For the next 3 months, my primary focus is:
 - Building strong problem-solving skills
 - Maintaining daily consistency and public accountability
 
-Currently maintaining a **35+ day GitHub commit streak** with daily learning and uploads.
-
 ---
 
 # Current Learning Focus
