@@ -84,7 +84,7 @@ Comprehensive DSA implementation repository with systematic topic coverage.
 
 ---
 
-## leetcode-solutions-java
+## leetcode-dsa-solutions
 
 Repository dedicated to solving **200+ LeetCode questions**.
 
