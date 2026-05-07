@@ -7,11 +7,11 @@ Learning Today, Building Tomorrow
 </h3>
 
 <p align="center">
-  Java • DSA • LeetCode • Consistency • Daily Growth
+  Java • Data Structures & Algorithms • Problem Solving • Systematic Learning
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amrit765&label=Profile%20Views&color=89CFF0&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=amrit765&label=Profile%20Views&color=89CFF0&style=flat-square" />
 </p>
 
 ---
@@ -168,18 +168,19 @@ Current Commit Streak: **35+ Days**
 # GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amrit765&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amrit765&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
 
   <img src="https://streak-stats.demolab.com?user=amrit765&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrit765&layout=compact&theme=tokyonight&hide_border=true" width="38%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrit765&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="38%" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=amrit765&theme=tokyo-night&hide_border=true" width="95%"/>
 </p>
+
 ---
 
 # Goals
