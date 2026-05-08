@@ -125,7 +125,9 @@ Current Commit Streak: **35+ Days**
 # GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=amrit765&theme=tokyonight&hide_border=true" width="70%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amrit765&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  
+  <img src="https://streak-stats.demolab.com?user=amrit765&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
