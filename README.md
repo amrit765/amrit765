@@ -108,7 +108,7 @@ Daily progress and solutions are uploaded consistently.
 - Topic-wise Progress Tracking
 - Long-term Skill Development
 
-Current Commit Streak: **35+ Days**
+Current Commit Streak: **40+ Days**
 
 ---
 
