@@ -125,14 +125,6 @@ Current Commit Streak: **40+ Days**
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%"
-       src="https://github-readme-stats.vercel.app/api?username=amrit765&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" />
-
-  <img width="37%"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrit765&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" />
-</p>
-
-<p align="center">
   <img width="95%"
        src="https://github-readme-activity-graph.vercel.app/graph?username=amrit765&theme=tokyo-night&hide_border=true&area=true" />
 </p>
