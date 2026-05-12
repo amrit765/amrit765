@@ -122,18 +122,33 @@ Current Commit Streak: **40+ Days**
 
 ---
 
-# GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=amrit765&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  
-  <img src="https://streak-stats.demolab.com?user=amrit765&theme=tokyonight&hide_border=true" width="48%" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=amrit765&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=amrit765&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amrit765&theme=tokyo-night&hide_border=true" width="95%"/>
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrit765&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=amrit765&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=amrit765&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
 ---
 
 # Goals
