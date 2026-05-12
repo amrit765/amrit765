@@ -41,7 +41,7 @@ Structured Java fundamentals repository containing:
 ### Topics Covered
 - Variables & Data Types
 - Operators
-- Loops
+- Conditional Statemnts & Loops
 - Patterns
 - Functions & Methods
 - Arrays
