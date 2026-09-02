@@ -1,4 +1,4 @@
-# Hi, I'm Amrit Raj 👋
+# Hi, I'm Amrit Raj 
 
 ### B.Tech CSE (AI & ML) Graduate | AI/ML • Generative AI • Java • DSA
 
@@ -7,14 +7,14 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/amrit-369-raj">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/amrit-369-raj" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/amrit765">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/amrit765" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:amrit7ml@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=amrit7ml@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -26,15 +26,15 @@ I am a **B.Tech Computer Science Engineering graduate specializing in Artificial
 
 I enjoy learning concepts by building practical projects and strengthening my problem-solving skills through **Java, DSA, Python, and core computer science fundamentals**.
 
-Currently, I am focused on:
+### Currently focused on:
 
-- 🤖 Artificial Intelligence & Machine Learning
-- 🧠 Deep Learning & Computer Vision
-- ✨ Generative AI & LLM-based applications
-- ☕ Java & Data Structures and Algorithms
-- 🐍 Python programming
-- 💻 Building practical AI-powered applications
-- 📚 Strengthening CS fundamentals and interview preparation
+- Artificial Intelligence & Machine Learning
+- Deep Learning & Computer Vision
+- Generative AI & LLM-based applications
+- Java & Data Structures and Algorithms
+- Python programming
+- Building practical AI-powered applications
+- Strengthening CS fundamentals and interview preparation
 
 I am actively looking for **entry-level opportunities in AI/ML, Generative AI, and Software Development**.
 
@@ -140,8 +140,6 @@ A **Generative AI-powered conversational application** designed to provide a war
 
 ### Java & DSA
 
-I am continuously strengthening my problem-solving ability through:
-
 - Java fundamentals
 - Object-Oriented Programming
 - Data Structures
@@ -151,8 +149,6 @@ I am continuously strengthening my problem-solving ability through:
 - Logic building
 
 ### AI / ML
-
-Currently developing stronger foundations in:
 
 - Machine Learning fundamentals
 - Deep Learning
@@ -168,7 +164,8 @@ Currently developing stronger foundations in:
 # 📂 Featured Repositories
 
 ### ☕ Java Fundamentals
-Structured learning repository containing:
+
+Structured learning repository covering:
 
 - Variables & Data Types
 - Operators & Conditional Statements
@@ -181,9 +178,11 @@ Structured learning repository containing:
 - Object-Oriented Programming
 
 ### 🧩 DSA Implementation — Java
+
 Implementations and practice of core Data Structures & Algorithms using Java.
 
 ### 🧠 LeetCode DSA Solutions
+
 A collection of solved DSA problems organized topic-wise for systematic practice.
 
 ---
